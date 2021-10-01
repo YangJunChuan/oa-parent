@@ -1,0 +1,4 @@
+com\yjcxyx\oa\auth\service\impl\AuthorizationServiceImpl.class
+com\yjcxyx\oa\auth\model\Authorization.class
+com\yjcxyx\oa\auth\mapper\AuthorizationMapper.class
+com\yjcxyx\oa\auth\service\AuthorizationService.class

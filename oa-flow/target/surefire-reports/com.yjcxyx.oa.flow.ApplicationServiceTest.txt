@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.yjcxyx.oa.flow.ApplicationServiceTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.585 s - in com.yjcxyx.oa.flow.ApplicationServiceTest

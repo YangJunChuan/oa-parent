@@ -1,0 +1,4 @@
+com\yjcxyx\oa\flow\model\Application.class
+com\yjcxyx\oa\flow\mapper\ApplicationMapper.class
+com\yjcxyx\oa\flow\service\impl\ApplicationServiceImpl.class
+com\yjcxyx\oa\flow\service\ApplicationService.class

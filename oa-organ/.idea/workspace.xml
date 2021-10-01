@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd322b93-50be-4746-94f3-495405fc5e9e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\jcyang\.m2\repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="C:\Users\jcyang\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1yiF8JKMnpt6kY1OAQiz4PWCpOU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../oa-parent" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\development\workspace\oa-parent" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yjcxyx.oa.flow" />
+      <recent name="com.yjcxyx.oa.flow.service.impl" />
+      <recent name="com.yjcxyx.oa.flow.service" />
+      <recent name="com.yjcxyx.oa.flow.mapper" />
+      <recent name="com.yjcxyx.oa.flow.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\development\workspace\oa-flow\src\main\resources" />
+      <recent name="D:\development\workspace\oa-flow\src\main\java\com\yjcxyx\oa\flow\mapper" />
+      <recent name="D:\development\workspace\oa-auth\src\main\java\com\yjcxyx\oa\auth\mapper" />
+      <recent name="D:\development\workspace\oa-auth\src\main\resources" />
+      <recent name="D:\development\workspace\oa-organ\src\main\resources" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="RunManager" selected="JUnit.ApplicationServiceTest">
+    <configuration name="ApplicationServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oa-flow" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yjcxyx.oa.flow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yjcxyx.oa.flow" />
+      <option name="MAIN_CLASS_NAME" value="com.yjcxyx.oa.flow.ApplicationServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthorizationServiceTest.testAuthorize" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oa-auth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yjcxyx.oa.auth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yjcxyx.oa.auth" />
+      <option name="MAIN_CLASS_NAME" value="com.yjcxyx.oa.auth.AuthorizationServiceTest" />
+      <option name="METHOD_NAME" value="testAuthorize" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthorizationServiceTest.testFindById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oa-auth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yjcxyx.oa.auth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yjcxyx.oa.auth" />
+      <option name="MAIN_CLASS_NAME" value="com.yjcxyx.oa.auth.AuthorizationServiceTest" />
+      <option name="METHOD_NAME" value="testFindById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthorizationServiceTest.testUnauthorize" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oa-auth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yjcxyx.oa.auth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yjcxyx.oa.auth" />
+      <option name="MAIN_CLASS_NAME" value="com.yjcxyx.oa.auth.AuthorizationServiceTest" />
+      <option name="METHOD_NAME" value="testUnauthorize" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeServiceTest.testAddEmployee" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oa-organ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yjcxyx.oa.organ.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yjcxyx.oa.organ.service" />
+      <option name="MAIN_CLASS_NAME" value="com.yjcxyx.oa.organ.service.EmployeeServiceTest" />
+      <option name="METHOD_NAME" value="testAddEmployee" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ApplicationServiceTest" />
+        <item itemvalue="JUnit.AuthorizationServiceTest.testFindById" />
+        <item itemvalue="JUnit.AuthorizationServiceTest.testUnauthorize" />
+        <item itemvalue="JUnit.AuthorizationServiceTest.testAuthorize" />
+        <item itemvalue="JUnit.EmployeeServiceTest.testAddEmployee" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd322b93-50be-4746-94f3-495405fc5e9e" name="Default Changelist" comment="" />
+      <created>1632726340085</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632726340085</updated>
+      <workItem from="1632726343294" duration="7429000" />
+      <workItem from="1632787791201" duration="695000" />
+      <workItem from="1632788507995" duration="427000" />
+      <workItem from="1632788961006" duration="472000" />
+      <workItem from="1632789452889" duration="4297000" />
+      <workItem from="1632793809966" duration="210000" />
+      <workItem from="1632794042338" duration="839000" />
+      <workItem from="1632794906079" duration="6030000" />
+      <workItem from="1632828171497" duration="2577000" />
+      <workItem from="1632834800866" duration="284000" />
+      <workItem from="1632835111043" duration="142000" />
+      <workItem from="1632835277846" duration="223000" />
+      <workItem from="1632835524849" duration="4247000" />
+      <workItem from="1632865475493" duration="613000" />
+      <workItem from="1632873395219" duration="13990000" />
+      <workItem from="1632897459982" duration="1472000" />
+      <workItem from="1632898959166" duration="5531000" />
+      <workItem from="1632909406352" duration="3965000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#Notifications" timestamp="1632834820736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1632834820736" />
+    <state x="361" y="71" key="#Project_Structure" timestamp="1632888843847">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1632888843847" />
+    <state x="361" y="71" key="#SQL_Dialects" timestamp="1632898362636">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#SQL_Dialects/0.0.1536.824@0.0.1536.824" timestamp="1632898362636" />
+    <state x="462" y="247" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1632790049705">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="462" y="247" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1536.824@0.0.1536.824" timestamp="1632790049705" />
+    <state x="361" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1632901566048">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1632901566048" />
+    <state x="574" y="105" key="#com.intellij.ide.util.MemberChooser" timestamp="1632887737452">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="105" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1632887737452" />
+    <state x="549" y="105" key="FileChooserDialogImpl" timestamp="1632922372574">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="105" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1632922372574" />
+    <state width="1493" height="283" key="GridCell.Tab.0.bottom" timestamp="1632924208035">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="283" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1632924208035" />
+    <state width="1493" height="283" key="GridCell.Tab.0.center" timestamp="1632924208035">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="283" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1632924208035" />
+    <state width="1493" height="283" key="GridCell.Tab.0.left" timestamp="1632924208035">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="283" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1632924208035" />
+    <state width="1493" height="283" key="GridCell.Tab.0.right" timestamp="1632924208035">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="283" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1632924208035" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1632897419854">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1632897419854" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1632897419854">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1632897419854" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1632897419854">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1632897419854" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1632897419854">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1632897419854" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1632888912307">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1632888912307" />
+    <state x="408" y="116" key="NewModule_or_Project.wizard" timestamp="1632922374755">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="408" y="116" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1632922374755" />
+    <state x="349" y="77" key="Registry" timestamp="1632793410425">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="77" key="Registry/0.0.1536.824@0.0.1536.824" timestamp="1632793410425" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1632922379137">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1632922379137" />
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1632898960418">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1632898960418" />
+    <state x="447" y="145" width="642" height="534" key="find.popup" timestamp="1632902332832">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="145" width="642" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1632902332832" />
+    <state x="178" y="45" key="new project wizard" timestamp="1632922895138">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="45" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1632922895138" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1632793400525">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1632793400525" />
+    <state x="449" y="104" key="spring file set editor" timestamp="1632911018289">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="104" key="spring file set editor/0.0.1536.824@0.0.1536.824" timestamp="1632911018289" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/jdk1.8.0_261/src.zip!/java/util/Date.java</url>
+          <line>976</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
