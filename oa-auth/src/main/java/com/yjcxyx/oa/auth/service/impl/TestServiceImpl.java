@@ -6,4 +6,8 @@ package com.yjcxyx.oa.auth.service.impl;
  * @description: TODO
  */
 public class TestServiceImpl {
+    
+    public String test(String name){
+        return name;
+    }
 }
